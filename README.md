@@ -1,4 +1,8 @@
-# Device: Samsung Galaxy A53 5G
-These are only builds for the Samsung Galaxy A53 5G.
+# GSI
+These are builds for ALL Devices.
 
-Source code can be found on other repositories.
+Requires: TWRP.
+
+This uses a GSI (Generic System Image).
+
+LineageOS is open-source.
